@@ -1,5 +1,13 @@
 # Next Gen Readme Generator
   ![GitHub followers](https://img.shields.io/github/followers/lcalderin12?style=social)
+  
+# Video Link
+[vid Link](https://drive.google.com/file/d/1NKLx2eUmlo894za0nCIFyxAJFyuYjIg_/view)
+
+# Screenshots
+![](img/top.png)
+![](img/middle.png)
+![](img/end.png)
 
 ## Table of contents
 - [Description](#Description)

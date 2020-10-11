@@ -86,7 +86,6 @@ inquirer
     .then(function(res){
         
         let github = {
-         //email: res.data.email,
          image: res.data.avatar_url,
          name:res.data.name,
          repoLink: res.data.html_url
